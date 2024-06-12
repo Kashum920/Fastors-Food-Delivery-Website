@@ -1,12 +1,12 @@
 # Fastors-Food-Delivery-Website
 
-##Web Technologies
+## Web Technologies
 
 1. HTML: Used for structuring the content on the page, including the navigation menu and sections for food items.
 2. CSS: Employed for styling, utilizing colors, fonts, and layout properties to enhance the visual appeal.
 3. JavaScript: Likely used for interactive elements like dropdown menus and updating content dynamically.
 
-##Features
+## Features
 
 1. Order Now Button: A prominent call-to-action for immediate ordering.
 2. Burger Menu: Displays different burger options with images, descriptions, and prices.
