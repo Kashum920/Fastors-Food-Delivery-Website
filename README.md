@@ -19,5 +19,9 @@
 This website seems to be well-equipped to provide a seamless and engaging user experience for fast food delivery.
 
 ## Project Demo
-https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/cb27575a-7b76-4e0c-87b5-a4670ffcea7e
+
+![output]([https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/fb96e085-58fc-4b34-b64a-a82be6af87ce](https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/84d0422a-b0a3-4200-9d5d-3cda1215adfe))
+
 ![output](https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/fb96e085-58fc-4b34-b64a-a82be6af87ce)
+
+
