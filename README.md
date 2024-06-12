@@ -20,8 +20,9 @@ This website seems to be well-equipped to provide a seamless and engaging user e
 
 ## Project Demo
 
-![output]([https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/fb96e085-58fc-4b34-b64a-a82be6af87ce](https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/84d0422a-b0a3-4200-9d5d-3cda1215adfe))
 
-![output](https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/fb96e085-58fc-4b34-b64a-a82be6af87ce)
+https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/84d0422a-b0a3-4200-9d5d-3cda1215adfe
+
+
 
 
