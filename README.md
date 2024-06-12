@@ -20,8 +20,10 @@ This website seems to be well-equipped to provide a seamless and engaging user e
 
 ## Project Demo
 
-
 https://github.com/Kashum920/Fastors-Food-Delivery-Website/assets/149722175/84d0422a-b0a3-4200-9d5d-3cda1215adfe
+
+## Full Review and Go To Our Website
+Link:- https://www.simplirun.com/2024/05/build-responsive-food-delivery-website.html
 
 
 
